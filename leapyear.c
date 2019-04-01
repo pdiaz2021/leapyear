@@ -4,7 +4,6 @@
 
 int main(void)
 {
-    int x;
     int num;
 
     printf("Enter the year:\n");
